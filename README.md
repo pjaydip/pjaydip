@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Deep Learning, and practicing regression problems. 
 - 💞️ I’m looking to collaborate on any interesing machine leanring, deep learning, and business analytics project.
 - 📫 You can email me on jaydippatel@asu.edu for anything. I would love to talk to you. 
-- :ruuner: In my free time, I like to run, :books: reading books, and :racing_car: talk about F1. 
+- :runner: In my free time, I like to run, :books: reading books, and :racing_car: talk about F1. 
 
 <!---
 pjaydip/pjaydip is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
